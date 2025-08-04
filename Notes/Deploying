@@ -1,0 +1,13 @@
+# Deploying steps
+
+Change to Oregon region.
+Code Pipeline.
+Create custom pipeline.
+Ubuntu for frontend.
+Need a buildspec.yml file and push that to the repo.
+Yaml needs to be in the root of the project.
+
+## Amplify
+
+More expensive but it builds everything for you.
+Less configuration means more expensive.
